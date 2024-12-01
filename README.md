@@ -1,2 +1,2 @@
-# Python-Music-Player
-Python Music Player
+# Python Music Player
+This is the Python Music Player.
